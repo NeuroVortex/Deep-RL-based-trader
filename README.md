@@ -16,8 +16,8 @@ This repository contains a trading bot that leverages deep Q-learning to optimiz
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/trading-bot](https://github.com/NeuroVortex/simple-trading-bot-q-learning.git
-   cd simple-trading-bot-q-learning
+   git clone https://github.com/NeuroVortex/simple-deep-q-learning-trading-bot
+   cd simple-deep-q-learning-trading-bot
    ```
 
 2. **Install required packages**:
