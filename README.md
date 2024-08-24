@@ -34,13 +34,13 @@ This repository contains a trading bot that leverages deep Q-learning to optimiz
 1. **Training the Model**:
    Run the script to start training the model using historical market data:
    ```bash
-   python train.py
+   python train_app.py
    ```
 
 2. **Running the Bot**:
    Once the model is trained, you can start the bot to begin trading:
    ```bash
-   python run_bot.py
+   python evaluate_app.py
    ```
 
 3. **Evaluating Performance**:
